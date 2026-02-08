@@ -6,6 +6,9 @@
 !index.html
 !README.md
 !QUICKSTART.md
+!pubspec.yaml
+!lib/
+!lib/**
 !LICENSE
 !DEPLOYMENT.md
 !setup-github.sh
